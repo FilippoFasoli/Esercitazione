@@ -1,1 +1,9 @@
-
+1) Il Midas M32 Live è un mixer digitale.
+2) Lo standard DMX ha 512 canali.
+3) Il Gain controlla l'amplificazione del segnale audio.
+4) Un cavo XLR è per l'audio, mentre un cavo DMX è per il controllo delle luci.
+5) Una cassa attiva ha un amplificatore incorporato, mentre una passiva necessita di un amplificatore esterno.
+6) Un cavo è bilanciato quando ha due conduttori attivi e uno schermo per ridurre il rumore.
+7) Una DI Box converte segnali non bilanciati in segnali bilanciati e adatta livelli di segnale.
+8) Le matrici in un mixer audio permettono di instradare diversi segnali verso diverse destinazioni.
+9) Una Stage-Box è un'unità di interfaccia per connettere più canali audio tra palco e mixer principale.
